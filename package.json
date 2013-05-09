@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "jslint.js",
-  "dependencies": {},
+  "dependencies": {
+    "jslint": "~0.1.9"
+  },
   "devDependencies": {
     "tap": "~0.4.1"
   },
@@ -31,7 +33,7 @@
     "Lichun Zhan <lzhan@yahoo-inc.com>",
     "Michael Ridgway <mridgway@yahoo-inc.com>",
     "Ric Allinson <capecodehq@yahoo.co.uk>",
-    "Scott Shattuck",
+    "Scott Shattuck"
   ],
   "license": "BSD",
   "keywords": []
