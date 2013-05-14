@@ -1,5 +1,5 @@
 {
-  "name": "mojito-jslint",
+  "name": "mojito-cli-jslint",
   "version": "0.0.1",
   "description": "",
   "main": "jslint.js",
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yahoo/mojito-jslint.git"
+    "url": "git://github.com/yahoo/mojito-cli-jslint.git"
   },
-  "bugs": "https://github.com/yahoo/mojito-jslint/issues",
+  "bugs": "https://github.com/yahoo/mojito-cli-jslint/issues",
   "contributors": [
     "Caridy Patino <caridy@gmail.com>",
     "Dmitry Savintsev <dsavints@yahoo-inc.com>",
